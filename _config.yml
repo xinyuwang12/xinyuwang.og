@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Qi ZHANG"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Distinguished Postdoc Fellow of The Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-iUROnMAAAAJ&hl=en&authuser=2"
   email            : "q7zhang at polyu.edu.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-4637-6308"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
