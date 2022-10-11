@@ -24,7 +24,7 @@ FA = First Author; CA = Corresponding Author
 
 - FA Paper on anistropic double porosity media and stabilized node-based smoothed finite element method (SNS-FEM) has been accepted for publication in *Computer Methods in Applied Mechanics and Engineering*. (September 18, 2022)
 
-- CA Paper on roof water inrush study (wing crack initiation and similar laboratory experiment) has been accepted for publication in *Engineering Failure Analysis*. (August 28, 2022)
+- CA Paper on roof water inrush study (wing crack initiation analytical solution and similar laboratory experiment) has been accepted for publication in *Engineering Failure Analysis*. (August 28, 2022)
 
 
 - Dr. ZHANG has been awarded of the RGC Postdoctoral Fellowship in 2022/23 Exercise! (April 26, 2022)
