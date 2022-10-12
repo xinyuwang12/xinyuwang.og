@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: "Editorship and Professional Activities"
 permalink: /services/
 author_profile: true
 ---
