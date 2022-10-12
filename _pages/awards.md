@@ -5,13 +5,13 @@ permalink: /awards/
 author_profile: true
 ---
 
-- RGC Postdoctoral Fellowship Scheme (PDFS), 25 international (non-local) awardees each year, first one in the history of Faculty of Construction and Environment of PolyU, 2022.
-- PolyU Distinguished Postdoctoral Fellowship, 2021.
-- John A. Blume Research Fellowship, 2020.
-- Charles H. Leavell Graduate Student Fellowship, 2018.
-- Stanford School of Engineering Graduate Fellowship, 2016.
-- Outstanding Bachelor Thesis Award of CSRME, 2016. 中国岩石力学与工程学会优秀毕业论文
+- RGC Postdoctoral Fellowship Scheme (PDFS), 25 international (non-local) awardees each year, first one in the history of Faculty of Construction and Environment of PolyU, Apr 2022.
+- PolyU Distinguished Postdoctoral Fellowship, Nov 2021.
+- John A. Blume Research Fellowship, Nov 2020.
+- Charles H. Leavell Graduate Student Fellowship, Apr 2018.
+- Outstanding Bachelor Thesis Award of CSRME, Dec 2016. 全国岩石力学与工程优秀毕业设计（论文）奖
 - Excellent Graduate of Shanghai, 2016.
+- Stanford School of Engineering Graduate Fellowship, Mar 2016.
 - National Scholarship of China, 2015.
 - First-Class Academic Scholarship of Tongji University, 2015.
 - First Prize in the National Pei-Yuan Zhou Mechanics Contest of Shanghai Division, 2015.
