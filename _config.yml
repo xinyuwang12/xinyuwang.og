@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Qi ZHANG"
+title                    : "Qi ZHANG"
 title_separator          : "-"
 name                     : &name "Qi ZHANG"
-description              : &description "Distinguished Postdoc Fellow of The Hong Kong Polytechnic University"
+description              : &description "Ph.D."
 url                      : https://qizhang94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qizhang94/academicpages.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Qi ZHANG"
+  name             : "Qi ZHANG"
   avatar           : "profile.jpg"
-  bio              : "Distinguished Postdoc Fellow of The Hong Kong Polytechnic University"
+  bio              : "Ph.D. in Geomechanics"
   location         : "Hong Kong"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "qizhang94"
   google_plus      :
   keybase          :
   instagram        :
