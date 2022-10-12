@@ -9,7 +9,7 @@ author_profile: true
 - PolyU Distinguished Postdoctoral Fellowship, Nov 2021.
 - John A. Blume Research Fellowship, Nov 2020.
 - Charles H. Leavell Graduate Student Fellowship, Apr 2018.
-- Outstanding Bachelor Thesis Award of CSRME, Dec 2016. 全国岩石力学与工程优秀毕业设计（论文）奖
+- Outstanding Bachelor Thesis Award of CSRME (advised by 朱合华院士), Dec 2016. 全国岩石力学与工程优秀毕业设计（论文）奖
 - Excellent Graduate of Shanghai, 2016.
 - Stanford School of Engineering Graduate Fellowship, Mar 2016.
 - National Scholarship of China, 2015.
