@@ -29,7 +29,7 @@ author_profile: true
 1. Yan X, Sun H<sup>\*</sup>, Huang Z, Liu L, Wang P, **Zhang Q**, Yao J<sup>\*</sup> (2021) Hierarchical Modeling of Hydromechanical Coupling in Fractured Shale Gas Reservoirs with Multiple Porosity Scales. *Energy & Fuels* 35(7):5758-5776
 1. Shao J, **Zhang Q**<sup>\*</sup>, Zhang W, Wang Z, Wu X (2021) Effects of the borehole drainage for roof aquifer on local stress in underground mining. *Geomechanics and Engineering* 24(5):479-490
 1. **Zhang Q**<sup>\*</sup>, Yan X, Shao J (2021) Fluid flow through anisotropic and deformable double porosity media with ultra-low matrix permeability: A continuum framework. *Journal of Petroleum Science and Engineering* 200:108349
-1. **Zhang Q**, Chen Y, Yang Z, Darve E<sup>\*</sup> (2020) Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem. Proceedings of the Machine Learning and the Physical Sciences Workshop, 34th Conference on Neural Information Processing Systems (NeurIPS), December
+1. **Zhang Q**<sup>\+</sup>, Chen Y<sup>\+</sup>, Yang Z<sup>\+</sup>, Darve E<sup>\*</sup> (2020) Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem. Proceedings of the Machine Learning and the Physical Sciences Workshop, 34th Conference on Neural Information Processing Systems (NeurIPS), December
 1. **Zhang Q**<sup>\*</sup> (2020) Hydromechanical modeling of solid deformation and fluid flow in the transversely isotropic fissured rocks. *Computers and Geotechnics* 128:103812
 1. **Zhang Q**, Choo J, Borja RI<sup>\*</sup> (2019) On the preferential flow patterns induced by transverse isotropy and non-Darcy flow in double porosity media. *Computer Methods in Applied Mechanics and Engineering* 353:570-592
 1. **Zhang Q**<sup>\*</sup>, Zhu H (2018) Collaborative 3D geological modeling analysis based on multi-source data standard. *Engineering Geology* 246:233-244
@@ -38,9 +38,9 @@ author_profile: true
 ## Other
 
 1. Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. *Advances in Geo-Energy Research*
-1. Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain Inverted by Digital Images. *Geofluids*
-1. Investigation on the Water Flow Evolution in a Filled Fracture under Seepage-Induced Erosion. *Water*
-1. New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation. *ACS Omega*
 1. Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata. *ACS Omega*
+1. New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation. *ACS Omega*
+1. Investigation on the Water Flow Evolution in a Filled Fracture under Seepage-Induced Erosion. *Water*
 1. Numerical Investigation of the Effect of Partially Propped Fracture Closure on Gas Production in Fractured Shale Reservoirs. *Energies*
+1. Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain Inverted by Digital Images. *Geofluids*
 1. Experimental Study on the Basic Properties of a Green New Coal Mine Grouting Reinforcement Material. *ACS Omega*
