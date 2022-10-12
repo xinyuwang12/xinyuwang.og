@@ -40,7 +40,7 @@ author_profile: true
 1. Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. *Advances in Geo-Energy Research*
 1. Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata. *ACS Omega*
 1. New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation. *ACS Omega*
-1. Investigation on the Water Flow Evolution in a Filled Fracture under Seepage-Induced Erosion. *Water*
 1. Numerical Investigation of the Effect of Partially Propped Fracture Closure on Gas Production in Fractured Shale Reservoirs. *Energies*
+1. Investigation on the Water Flow Evolution in a Filled Fracture under Seepage-Induced Erosion. *Water*
 1. Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain Inverted by Digital Images. *Geofluids*
 1. Experimental Study on the Basic Properties of a Green New Coal Mine Grouting Reinforcement Material. *ACS Omega*
