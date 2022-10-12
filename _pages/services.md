@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-- Journal Special Issue Editor:
+- Journal Special Issue (Co-)Editor:
 
   - [Journal of Zhejiang University-SCIENCE A](https://jzus.zju.edu.cn/current_a.php): [Multiscale Multiphysics Modeling in Geotechnics](https://www.springer.com/journal/11582/updates/20077476)
   - [Energies](https://www.mdpi.com/journal/energies): [Exploitation of Geological Resources in Unconventional Reservoirs](https://www.mdpi.com/journal/energies/special_issues/E_GR_UR)
