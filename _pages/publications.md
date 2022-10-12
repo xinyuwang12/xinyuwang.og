@@ -20,7 +20,6 @@ author_profile: true
 1. Shao J, Zhang W, **Zhang Q**<sup>\*</sup>, Wu X, Lei Y (2022) Experimental study on mechanical and seepage properties of sandstone samples under axial unloading-reloading conditions. *Pure and Applied Geophysics* (under review)
 
 
-
 ## Main
 
 1. **Zhang Q**, Wang ZY, Yin ZY<sup>\*</sup>, Jin YF (2022) A novel stabilized NS-FEM formulation for anisotropic double porosity media. *Computer Methods in Applied Mechanics and Engineering* 410B:115666 \[[Code](https://github.com/qizhang94/GEOKEYFEM_HM)\]
