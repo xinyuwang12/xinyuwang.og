@@ -29,6 +29,14 @@ author_profile: true
   - [Géotechnique Letters](https://www.icevirtuallibrary.com/toc/jgele/current)
   - [KSCE Journal of Civil Engineering](https://www.springer.com/journal/12205)
   - Other OA journals
+  
+- Journal Reviewer (assistant):
+
+  - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
+  - [Computers and Geotechnics](https://www.sciencedirect.com/journal/computers-and-geotechnics)
+  - [Renewable Energy](https://www.sciencedirect.com/journal/renewable-energy)
+  - [International Journal of Rock Mechanics and Mining Sciences](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
+  
 
 - Conference Reviewer:
 
