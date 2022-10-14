@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal academic website!
 
-I am Qi ZHANG (张琦 in Chinese) and I was born in Taian and raised in Qingdao, famous for Taishan Mountain and seafood/beer, respectively.
+I am Qi ZHANG (张琦 in Chinese) and I was born in Taian and raised in Qingdao, which are famous for Taishan Mountain and seafood/beer, respectively.
 
 Currently I am a research assistant professor in [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I work with [Prof. Zhen-Yu Yin](https://www.polyu.edu.hk/cee/people/academic-staff/dr-zhen-yu-yin/). Prior to joining PolyU, I received my Ph.D. degree in [Department of Civil and Environmental Engineering](https://cee.stanford.edu/) at [Stanford University](https://www.stanford.edu/) in June 2021, working with [Prof. Ronaldo I. Borja](https://web.stanford.edu/~borja/). My Ph.D. thesis is **MATHEMATICAL MODELING OF UNCONVENTIONAL GEOMATERIALS**. I received my B.Eng. degree from [Tongji University](https://www.tongji.edu.cn/) in July 2016 with an undergradute minor degree in Applied Mathematics.
 
