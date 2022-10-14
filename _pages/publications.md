@@ -22,7 +22,7 @@ author_profile: true
 
 ## Main work
 
-1. **Zhang Q**, Wang ZY, Yin ZY<sup>\*</sup>, Jin YF (2022) A novel stabilized NS-FEM formulation for anisotropic double porosity media. *Computer Methods in Applied Mechanics and Engineering* 410B:115666 \[[Code](https://github.com/qizhang94/GEOKEYFEM_HM)\] \[[PDF](files/CMAME_115666.pdf)\]
+1. **Zhang Q**, Wang ZY, Yin ZY<sup>\*</sup>, Jin YF (2022) A novel stabilized NS-FEM formulation for anisotropic double porosity media. *Computer Methods in Applied Mechanics and Engineering* 410B:115666 \[[Code](https://github.com/qizhang94/GEOKEYFEM_HM)\] \[[PDF](../files/CMAME_115666.pdf)\]
 1. Wang Z, **Zhang Q**<sup>\*</sup>, Zhang W (2022) A novel collaborative study of abnormal roof water inrush in coal seam mining based on strata separation and wing crack initiation. *Engineering Failure Analysis* 142:106762
 1. **Zhang Q**, Yan X<sup>\*</sup>, Li Z (2022) A mathematical framework for multiphase poromechanics in multiple porosity media. *Computers and Geotechnics* 146:104728
 1. **Zhang Q**, Wang Z<sup>\*</sup> (2021) Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach. *Earth Science Informatics* 14(3):1349-1365
