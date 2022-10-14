@@ -26,7 +26,7 @@ author_profile: true
 1. Wang Z, **Zhang Q**<sup>\*</sup>, Zhang W (2022) A novel collaborative study of abnormal roof water inrush in coal seam mining based on strata separation and wing crack initiation. *Engineering Failure Analysis* 142:106762 \[[PDF](../files/EFA_106762.pdf)\]
 1. **Zhang Q**, Yan X<sup>\*</sup>, Li Z (2022) A mathematical framework for multiphase poromechanics in multiple porosity media. *Computers and Geotechnics* 146:104728 \[[PDF](../files/CAGT_104728.pdf)\]
 1. **Zhang Q**, Wang Z<sup>\*</sup> (2021) Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach. *Earth Science Informatics* 14(3):1349-1365 \[[PDF](../files/ESIN_2021.pdf)\]
-1. **Zhang Q**, Borja RI<sup>\*</sup> (2021) Poroelastic coefficients for anisotropic single and double porosity media. *Acta Geotechnica* 16(10):3013-3025 \[[PDF](../files/ACTA_GEOT.pdf)\](typos are marked)
+1. **Zhang Q**, Borja RI<sup>\*</sup> (2021) Poroelastic coefficients for anisotropic single and double porosity media. *Acta Geotechnica* 16(10):3013-3025 \[[PDF](../files/ACTA_GEOT.pdf)\](TYPO is marked)
 1. Yan X, Sun H<sup>\*</sup>, Huang Z, Liu L, Wang P, **Zhang Q**, Yao J<sup>\*</sup> (2021) Hierarchical Modeling of Hydromechanical Coupling in Fractured Shale Gas Reservoirs with Multiple Porosity Scales. *Energy & Fuels* 35(7):5758-5776
 1. Shao J, **Zhang Q**<sup>\*</sup>, Zhang W, Wang Z, Wu X (2021) Effects of the borehole drainage for roof aquifer on local stress in underground mining. *Geomechanics and Engineering* 24(5):479-490
 1. **Zhang Q**<sup>\*</sup>, Yan X, Shao J (2021) Fluid flow through anisotropic and deformable double porosity media with ultra-low matrix permeability: A continuum framework. *Journal of Petroleum Science and Engineering* 200:108349
@@ -39,7 +39,7 @@ author_profile: true
 ## Other
 
 1. Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. *Advances in Geo-Energy Research* \[[PDF](../files/AGER_20210402.pdf)\]
-1. Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata. *ACS Omega*
+1. Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata. *ACS Omega* (../files/ACSO.pdf)\]
 1. New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation. *ACS Omega*
 1. Numerical Investigation of the Effect of Partially Propped Fracture Closure on Gas Production in Fractured Shale Reservoirs. *Energies*
 1. Investigation on the Water Flow Evolution in a Filled Fracture under Seepage-Induced Erosion. *Water*
