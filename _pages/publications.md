@@ -18,6 +18,7 @@ author_profile: true
 ## Preprints
 
 1. Shao J, Zhang W, **Zhang Q**<sup>\*</sup>, Wu X, Lei Y (2022) Experimental study on mechanical and seepage properties of sandstone samples under axial unloading-reloading conditions. *Pure and Applied Geophysics* (under review)
+1. Zhang Q, Chen Y, Yang Z (2020) Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network. \[[Link](https://doi.org/10.20944/preprints202006.0258.v1)\]
 
 
 ## Main work
