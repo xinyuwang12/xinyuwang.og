@@ -18,7 +18,7 @@ author_profile: true
 ## Preprints
 
 1. Shao J, Zhang W, **Zhang Q**<sup>\*</sup>, Wu X, Lei Y (2023) Experimental study on mechanical and seepage properties of sandstone samples under axial unloading-reloading conditions.
-1. Zhang Q, Chen Y, Yang Z (2020) Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network. \[[Link](https://doi.org/10.20944/preprints202006.0258.v1)\]
+1. **Zhang Q**<sup>\*</sup>, Chen Y, Yang Z (2020) Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network. \[[Link](https://doi.org/10.20944/preprints202006.0258.v1)\]
 1. Wang ZY, Jin YF, Yin ZY, Wang YZ, **Zhang Q** (2023) A stable node-based smoothed PFEM for hydro-mechanical coupled dynamics in geotechnical engineering.
 1. Wang ZY, **Zhang Q**, Jin YF, Yin ZY, Wang YZ (2023) A coupled stable node-based smoothed PFEM for soil-structure interaction with large deformation.
 
