@@ -31,4 +31,4 @@ FA = First Author; CA = Corresponding Author
 - (FA) Paper on multiple porosity deformable media and multiphase flow has been accepted for publication in *Computers and Geotechnics*. (March 14, 2022)
 
 
-![This is an image](../images/MMMiG.png)    ![This is an image](../images/Energies_SI.jpg)
+<img src="../images/MMMiG.png" width="400" hspace="20"/> <img src="../images/Energies_SI.jpg" width="400"/>
