@@ -25,6 +25,7 @@ author_profile: true
   - [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering)
   - [Journal of Natural Gas Science and Engineering](https://www.sciencedirect.com/journal/journal-of-natural-gas-science-and-engineering)
   - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations)
+  - [International Journal of Environmental Science and Technology](https://www.springer.com/journal/13762)
   - [European Journal of Environmental and Civil Engineering](https://www.tandfonline.com/journals/tece20)
   - [Géotechnique Letters](https://www.icevirtuallibrary.com/toc/jgele/current)
   - [KSCE Journal of Civil Engineering](https://www.springer.com/journal/12205)

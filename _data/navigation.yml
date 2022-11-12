@@ -9,8 +9,8 @@ main:
   - title: "Editorship"
     url: /services/      
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+  - title: "Resources"
+    url: /resources/    
     
   # - title: "Portfolio"
   #  url: /portfolio/
