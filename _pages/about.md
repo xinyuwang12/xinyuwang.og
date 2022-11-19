@@ -20,15 +20,20 @@ My research interest focuses on the poromechanics theory developed by Prof. [Ron
 Recent news
 ======
 
+<!---
+
 FA = First Author; CA = Corresponding Author
 
 - (FA) Paper on anistropic double porosity media and stabilized node-based smoothed finite element method (SNS-FEM) has been accepted for publication in *Computer Methods in Applied Mechanics and Engineering*. (September 18, 2022)
 
 - (CA) Paper on roof water inrush study (wing crack initiation analytical solution and similar laboratory experiment) has been accepted for publication in *Engineering Failure Analysis*. (August 28, 2022)
 
-- Dr. ZHANG has been awarded of the RGC Postdoctoral Fellowship in 2022/23 Exercise! (April 26, 2022)
-
 - (FA) Paper on multiple porosity deformable media and multiphase flow has been accepted for publication in *Computers and Geotechnics*. (March 14, 2022)
 
+--->
+
+- I have given a talk for the invited lecture from China University of Petroleum (East China) SPE Student Chapter (November 18, 2022)
+
+- I have been awarded of the RGC Postdoctoral Fellowship in 2022/23 Exercise (April 26, 2022)
 
 <img src="../images/MMMiG.png" width="350"/> <img src="../images/Energies_SI.jpg" width="350"/>
