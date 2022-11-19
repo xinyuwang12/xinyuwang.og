@@ -32,7 +32,7 @@ FA = First Author; CA = Corresponding Author
 
 --->
 
-- I have given a talk for the invited lecture from China University of Petroleum (East China) SPE Student Chapter (November 18, 2022)
+- I have given an online talk for the invited lecture from China University of Petroleum (East China) SPE Student Chapter (November 18, 2022)
 
 - I have been awarded of the RGC Postdoctoral Fellowship in 2022/23 Exercise (April 26, 2022)
 
