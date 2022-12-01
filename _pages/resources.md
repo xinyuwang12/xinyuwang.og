@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-Here are some open source materials that may be useful for researchers in computational geomechanics.
+Here are some open-source materials that may be useful for researchers in computational geomechanics.
  
 - Applied Mechanics of Solids by Prof. Allan F. Bower of Brown University \[[Link](http://solidmechanics.org/)\]
 - Continuum Mechanics Notes of MIT \[[Link](https://web.mit.edu/abeyaratne/Volumes/RCA_Vol_II.pdf)\]
