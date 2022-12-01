@@ -19,7 +19,7 @@ author_profile: true
 - Journal Reviewer:
 
   - [Acta Geotechnica](https://www.springer.com/journal/11440)
-  - [International Journal for Numerical and Analytical Methods in Goemechanics](https://onlinelibrary.wiley.com/journal/10969853)
+  - [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
   - [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)
   - [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering)
