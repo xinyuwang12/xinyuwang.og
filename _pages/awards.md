@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- RGC Postdoctoral Fellowship Scheme (PDFS), 25 international (non-local) awardees each year, first one in the history of Faculty of Construction and Environment of PolyU, Apr 2022. Project title: **On the constitutive modeling of natural gas hydrate bearing sediment and multi-physics coupling in gas production**.
+- RGC Postdoctoral Fellowship Scheme (PDFS), 25 international (non-local) awardees each year, first one in the history of Faculty of Construction and Environment of PolyU, Apr 2022. Associated Project Title: **On the constitutive modeling of natural gas hydrate bearing sediment and multi-physics coupling in gas production**.
 - PolyU Distinguished Postdoctoral Fellowship, Nov 2021.
 - John A. Blume Research Fellowship, Nov 2020.
 - Charles H. Leavell Graduate Student Fellowship, Apr 2018.
