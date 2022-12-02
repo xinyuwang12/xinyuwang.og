@@ -19,25 +19,27 @@ author_profile: true
 - Journal Reviewer:
 
   - [Acta Geotechnica](https://www.springer.com/journal/11440)
-  - [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
-  - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
-  - [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)
-  - [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering)
-  - [Journal of Natural Gas Science and Engineering](https://www.sciencedirect.com/journal/journal-of-natural-gas-science-and-engineering)
-  - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations)
-  - [International Journal of Environmental Science and Technology](https://www.springer.com/journal/13762)
   - [European Journal of Environmental and Civil Engineering](https://www.tandfonline.com/journals/tece20)
   - [Géotechnique Letters](https://www.icevirtuallibrary.com/toc/jgele/current)
+  - [International Journal for Numerical and Analytical Methods in Geomechanics](https://onlinelibrary.wiley.com/journal/10969853)
+  - [International Journal of Environmental Science and Technology](https://www.springer.com/journal/13762)  
+  - [Journal of Cleaner Production](https://www.sciencedirect.com/journal/journal-of-cleaner-production)
+  - [Journal of Natural Gas Science and Engineering](https://www.sciencedirect.com/journal/journal-of-natural-gas-science-and-engineering)  
+  - [Journal of Petroleum Science and Engineering](https://www.sciencedirect.com/journal/journal-of-petroleum-science-and-engineering)
   - [KSCE Journal of Civil Engineering](https://www.springer.com/journal/12205)
+  - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)  
+  - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations)
+  
+
   - Other OA journals
   
 - Journal Reviewer (assistant):
 
-  - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
+
   - [Computers and Geotechnics](https://www.sciencedirect.com/journal/computers-and-geotechnics)
-  - [Renewable Energy](https://www.sciencedirect.com/journal/renewable-energy)
+  - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
   - [International Journal of Rock Mechanics and Mining Sciences](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
-  
+  - [Renewable Energy](https://www.sciencedirect.com/journal/renewable-energy)  
 
 - Conference Reviewer:
 

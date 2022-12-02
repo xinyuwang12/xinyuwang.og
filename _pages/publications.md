@@ -17,16 +17,17 @@ author_profile: true
 
 ## Preprints
 
-1. Shao J, Zhang W, **Zhang Q**<sup>\*</sup>, Wu X, Lei Y (2023) Experimental study on mechanical and seepage properties of sandstone samples under axial unloading-reloading conditions.
-1. Shao J, **Zhang Q**<sup>\*</sup>, Zhang W (2023) Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model.
+1. Experimental study on mechanical and seepage properties of sandstone samples under axial unloading-reloading conditions.
+1. Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model.
+1. Theoretical and numerical investigations on wing crack initiation and propagation in rock materials containing a pre-existing crack under hydro-mechanical interaction
+1. A coupled stable node-based smoothed PFEM for soil-structure interaction with large deformation.
 1. **Zhang Q**<sup>\*</sup>, Chen Y, Yang Z (2020) Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network. \[[Link](https://doi.org/10.20944/preprints202006.0258.v1)\]
-1. Wang ZY, Jin YF, Yin ZY, Wang YZ, **Zhang Q** (2023) A stable node-based smoothed PFEM for hydro-mechanical coupled dynamics in geotechnical engineering.
-1. Wang ZY, **Zhang Q**, Jin YF, Yin ZY, Wang YZ (2023) A coupled stable node-based smoothed PFEM for soil-structure interaction with large deformation.
+
 
 
 ## Main work
 
-1. **Zhang Q**, Wang ZY, Yin ZY<sup>\*</sup>, Jin YF (2022) A novel stabilized NS-FEM formulation for anisotropic double porosity media. *Computer Methods in Applied Mechanics and Engineering* 410B:115666 \[[Code](https://github.com/qizhang94/GEOKEYFEM_HM/releases)\] \[[PDF](../files/CMAME_115666.pdf)\] \[[Rebuttal](../files/CMAME_115666_Rebuttal.pdf)\]
+1. **Zhang Q**, Wang ZY, Yin ZY<sup>\*</sup>, Jin YF (2022) A novel stabilized NS-FEM formulation for anisotropic double porosity media. *Computer Methods in Applied Mechanics and Engineering* 401:115666 \[[Code](https://github.com/qizhang94/GEOKEYFEM_HM/releases)\] \[[PDF](../files/CMAME_115666.pdf)\] \[[Rebuttal](../files/CMAME_115666_Rebuttal.pdf)\]
 1. Wang Z, **Zhang Q**<sup>\*</sup>, Zhang W (2022) A novel collaborative study of abnormal roof water inrush in coal seam mining based on strata separation and wing crack initiation. *Engineering Failure Analysis* 142:106762 \[[PDF](../files/EFA_106762.pdf)\]
 1. **Zhang Q**, Yan X<sup>\*</sup>, Li Z (2022) A mathematical framework for multiphase poromechanics in multiple porosity media. *Computers and Geotechnics* 146:104728 \[[PDF](../files/CAGT_104728.pdf)\] \[[Rebuttal 1](../files/CAGT_104728_Rebuttal1.pdf)\] \[[Rebuttal 2](../files/CAGT_104728_Rebuttal2.pdf)\]
 1. **Zhang Q**, Wang Z<sup>\*</sup> (2021) Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach. *Earth Science Informatics* 14(3):1349-1365 \[[PDF](../files/ESIN_2021.pdf)\]
