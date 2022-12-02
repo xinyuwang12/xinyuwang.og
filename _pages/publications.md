@@ -50,4 +50,4 @@ author_profile: true
 1. Investigation on the Water Flow Evolution in a Filled Fracture under Seepage-Induced Erosion. *Water*
 1. Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain Inverted by Digital Images. *Geofluids*
 1. Experimental Study on the Basic Properties of a Green New Coal Mine Grouting Reinforcement Material. *ACS Omega*
-1. Study on mechanism and prevention measures of roof separation water inrush (2022). China University of Mining and Technology Press《顶板离层水突涌机理及防治措施研究》中国矿业大学出版社
+1. Study on the mechanism and prevention measures of roof separation water inrush (2021). China University of Mining and Technology Press《顶板离层水突涌机理及防治措施研究》中国矿业大学出版社
