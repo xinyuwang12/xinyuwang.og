@@ -29,8 +29,6 @@ author_profile: true
   - [KSCE Journal of Civil Engineering](https://www.springer.com/journal/12205)
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)  
   - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations)
-  
-
   - Other OA journals
   
 - Journal Reviewer (assistant):
