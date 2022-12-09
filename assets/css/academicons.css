@@ -19,6 +19,7 @@
 	font:normal normal normal 14px/1 Academicons;
 	font-size:inherit;
 	text-rendering:auto;
+	text-decoration: none;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
 }
