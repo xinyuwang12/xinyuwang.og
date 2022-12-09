@@ -31,7 +31,7 @@ author_profile: true
   - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations)
   - Other OA journals
 
-- Journal Reviewer (assistant):
+- Journal Co-Reviewer:
 
   - [Computers and Geotechnics](https://www.sciencedirect.com/journal/computers-and-geotechnics)
   - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
