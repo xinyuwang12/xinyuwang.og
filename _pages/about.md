@@ -36,10 +36,12 @@ FA = First Author; CA = Corresponding Author
 
 - I have been awarded the RGC Postdoctoral Fellowship in the 2022/23 Exercise (April 26, 2022)
 
+<!---
 <img src="../images/MMMiG.png" width="350"/> <img src="../images/Energies_SI.jpg" width="350"/>
 
 
 ![This is an image](../images/ICCES2023.png)
 
+--->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=160c98&w=400&t=tt&d=Dpxdrc4AFLYPcA-vwWuwzCFnPW278vQEnjX3wtFIibY&co=ffffff&ct=000000&cmo=3acc3a&cmn=ff5353'></script>
