@@ -42,4 +42,4 @@ FA = First Author; CA = Corresponding Author
 ![This is an image](../images/ICCES2023.png)
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Dpxdrc4AFLYPcA-vwWuwzCFnPW278vQEnjX3wtFIibY"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=Dpxdrc4AFLYPcA-vwWuwzCFnPW278vQEnjX3wtFIibY'></script>
