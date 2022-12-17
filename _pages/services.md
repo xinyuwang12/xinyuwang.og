@@ -37,6 +37,7 @@ author_profile: true
   - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
   - [International Journal of Rock Mechanics and Mining Sciences](https://www.sciencedirect.com/journal/international-journal-of-rock-mechanics-and-mining-sciences)
   - [Renewable Energy](https://www.sciencedirect.com/journal/renewable-energy)
+  - [Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering)
 
 - Conference Reviewer:
 
