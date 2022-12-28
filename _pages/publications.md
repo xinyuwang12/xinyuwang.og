@@ -51,7 +51,7 @@ Unconventional geomaterials often exhibit multi-modal pore size distribution. We
 </pre></div>
 
 
-- **Zhang Q**, Wang Z<sup>\*</sup> (2021) Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach. *Earth Science Informatics* 14(3):1349-1365 [[PDF]](../files/ESIN_202-pdf){:target="_blank"}
+- **Zhang Q**, Wang Z<sup>\*</sup> (2021) Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach. *Earth Science Informatics* 14(3):1349-1365 [[PDF]](../files/ESIN_2021.pdf){:target="_blank"}
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'ZhangESIN21');">Summary</a>]
 <div id="ZhangESIN21" style="display:none;">
 <pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
