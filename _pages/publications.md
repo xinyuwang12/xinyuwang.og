@@ -101,7 +101,7 @@ In this paper, we study the problem of large-strain consolidation in poromechani
 
 ## Other
 
-- Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. [*Advances in Geo-Energy Research*](https://www.yandy-ager.com/index.php/ager/index){:target="_blank"} (ESCI and EI indexed, OA Journal, Chinese Academy of Sciences JCR Q4) [[PDF]](../files/AGER_20210402.pdf){:target="_blank"}
+- Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. [*Advances in Geo-Energy Research*](https://www.yandy-ager.com/index.php/ager/index){:target="_blank"} (ESCI and EI indexed, OA Journal $490, Chinese Academy of Sciences JCR Q4, CiteScore 2021: 9.4) [[PDF]](../files/AGER_20210402.pdf){:target="_blank"}
 - Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata. *ACS Omega* [[PDF]](../files/ACSO.pdf){:target="_blank"}
 - New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation. *ACS Omega*
 - Numerical Investigation of the Effect of Partially Propped Fracture Closure on Gas Production in Fractured Shale Reservoirs. *Energies*
