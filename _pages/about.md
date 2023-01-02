@@ -32,6 +32,8 @@ FA = First Author; CA = Corresponding Author
 
 --->
 
+- The [Resources](https://qizhang94.github.io/resources/) section is updated with my own contributions (January 2, 2023)! Happy New Year!
+
 - I have given an online talk for the invited lecture from the China University of Petroleum (East China) SPE Student Chapter (November 18, 2022)
 
 - I have been awarded the RGC Postdoctoral Fellowship in the 2022/23 Exercise (April 26, 2022)
