@@ -19,6 +19,6 @@ Here are some open-source materials that may be useful for researchers in comput
 
 Occasionally, I will also upload and share some of my notes of mathematical derivations or useful code snippets.
 
-- Here are the [MATLAB main file](../files/anisotropic_elasticity.txt){:target="_blank"} and two associated functions ([Double contraction](../files/double_dot.txt){:target="_blank"} and [Conversion](../files/stiffness_to_mat6by6.txt){:target="_blank"}) for anisotropic elasticity (fourth-order elastic moduli tensor, 9\*9 matrix form, Voigt notation 6\*6 matri form, etc.) The theory could be found in this [[PDF]](https://www.google.com/){:target="_blank"}.
+- Here are the [MATLAB main file](../files/anisotropic_elasticity.txt){:target="_blank"} and two associated functions ([Double contraction](../files/double_dot.txt){:target="_blank"} and [Conversion](../files/stiffness_to_mat6by6.txt){:target="_blank"}) for anisotropic elasticity (fourth-order elastic moduli tensor, 9\*9 matrix form, Voigt notation 6\*6 matrix form, etc.) The theory could be found in this [[PDF]](https://www.google.com/){:target="_blank"}.
 
 - The fundamental derivations in poromechanics will come soon!
