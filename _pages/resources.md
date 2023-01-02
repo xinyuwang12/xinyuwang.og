@@ -19,7 +19,7 @@ Here are some open-source materials that may be useful for researchers in comput
 
 Occasionally, I will also upload and share some of my notes of mathematical derivations or useful code snippets.
 
-- Here is the MATLAB code for anisotropic elasticity (fourth-order elastic moduli tensor, 9\*9 matrix form, Voigt notation 6\*6 matri form, etc.) The theory could be found in this [[PDF]](../files/anisotropic_elasticity.m){:target="_blank"}
+- Here is the MATLAB code for anisotropic elasticity (fourth-order elastic moduli tensor, 9\*9 matrix form, Voigt notation 6\*6 matri form, etc.) The theory could be found in this [[PDF]](../files/anisotropic_elasticity.txt){:target="_blank"}
 
 ```MATLAB
 clear; clearvars -global; clc; close all;
