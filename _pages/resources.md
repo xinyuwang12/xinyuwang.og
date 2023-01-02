@@ -21,10 +21,6 @@ Occasionally, I will also upload and share some of my notes of mathematical deri
 
 - Here is the MATLAB code for anisotropic elasticity (fourth-order elastic moduli tensor, 9\*9 matrix form, Voigt notation 6\*6 matri form, etc.) The theory could be found in this [[PDF]](www.google.com){:target="_blank"}
 
-
-<details>
-<summary>Click to expand</summary>
-
 ```MATLAB
 clear; clearvars -global; clc; close all;
 restoredefaultpath;
@@ -168,7 +164,3 @@ end
 end
 
 ```
-
-
-
-</details>
