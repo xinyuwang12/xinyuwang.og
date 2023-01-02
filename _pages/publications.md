@@ -70,6 +70,9 @@ Closed-form expressions for poroelastic coefficients are derived for anisotropic
 
 
 - Yan X, Sun H<sup>\*</sup>, Huang Z, Liu L, Wang P, **Zhang Q**, Yao J<sup>\*</sup> (2021) Hierarchical Modeling of Hydromechanical Coupling in Fractured Shale Gas Reservoirs with Multiple Porosity Scales. *Energy & Fuels* 35(7):5758-5776
+
+
+
 - Shao J, **Zhang Q**<sup>\*</sup>, Zhang W, Wang Z, Wu X (2021) Effects of the borehole drainage for roof aquifer on local stress in underground mining. *Geomechanics and Engineering* 24(5):479-490 [[PDF]](../files/GAE09290C_online.pdf){:target="_blank"}
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'ShaoGAE21');">Summary</a>]
 <div id="ShaoGAE21" style="display:none;">
@@ -79,10 +82,13 @@ Closed-form expressions for poroelastic coefficients are derived for anisotropic
 
 
 - **Zhang Q**<sup>\*</sup>, Yan X, Shao J (2021) Fluid flow through anisotropic and deformable double porosity media with ultra-low matrix permeability: A continuum framework. *Journal of Petroleum Science and Engineering* 200:108349
+
+
+
 - **Zhang Q**<sup>\+</sup>, Chen Y<sup>\+</sup>, Yang Z<sup>\+</sup>, Darve E<sup>\*</sup> (2020) Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem. Proceedings of the Machine Learning and the Physical Sciences Workshop, 34<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS) [[PDF]](../files/2010.15549.pdf){:target="_blank"}
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'MCNN');">Summary</a>]
 <div id="MCNN" style="display:none;">
-<pre  In this paper, we study the problem of large-strain consolidation in poromechanics with deep neural networks (DNN). Given different material properties and different loading conditions, the goal is to predict pore pressure and settlement. We propose a novel method ``multi-constitutive neural network'' (MCNN) such that one model can solve several different constitutive laws. We introduce a one-hot encoding vector as an additional input vector, which is used to label the constitutive law we wish to solve. Then we build a DNN which takes $(\hat{X}, \hat{t})$ as input along with a constitutive law label and outputs the corresponding solution. It is the first time, to our knowledge, that we can evaluate multi-constitutive laws through only one training process while still obtaining good accuracies. We found that MCNN trained to solve multiple PDEs outperforms individual neural network solvers trained with PDE in some cases.
+<pre  In this paper, we study the problem of large-strain consolidation in poromechanics with deep neural networks (DNN). Given different material properties and different loading conditions, the goal is to predict pore pressure and settlement. We propose a novel method *multi-constitutive neural network* (MCNN) such that one model can solve several different constitutive laws. We introduce a one-hot encoding vector as an additional input vector, which is used to label the constitutive law we wish to solve. Then we build a DNN which takes $(\hat{X}, \hat{t})$ as input along with a constitutive law label and outputs the corresponding solution. It is the first time, to our knowledge, that we can evaluate multi-constitutive laws through only one training process while still obtaining good accuracies. We found that MCNN trained to solve multiple PDEs outperforms individual neural network solvers trained with PDE in some cases.
 </pre></div>
 
 
