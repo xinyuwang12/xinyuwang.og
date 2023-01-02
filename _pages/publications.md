@@ -70,9 +70,22 @@ Closed-form expressions for poroelastic coefficients are derived for anisotropic
 
 
 - Yan X, Sun H<sup>\*</sup>, Huang Z, Liu L, Wang P, **Zhang Q**, Yao J<sup>\*</sup> (2021) Hierarchical Modeling of Hydromechanical Coupling in Fractured Shale Gas Reservoirs with Multiple Porosity Scales. *Energy & Fuels* 35(7):5758-5776
-- Shao J, **Zhang Q**<sup>\*</sup>, Zhang W, Wang Z, Wu X (2021) Effects of the borehole drainage for roof aquifer on local stress in underground mining. *Geomechanics and Engineering* 24(5):479-490
+- Shao J, **Zhang Q**<sup>\*</sup>, Zhang W, Wang Z, Wu X (2021) Effects of the borehole drainage for roof aquifer on local stress in underground mining. *Geomechanics and Engineering* 24(5):479-490 [[PDF]](../files/GAE09290C_online.pdf){:target="_blank"}
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'ShaoGAE21');">Summary</a>]
+<div id="ShaoGAE21" style="display:none;">
+<pre  Pre-drainage of groundwater in the roof aquifer by boreholes is the main method for prevention of roof water disaster, and the drop in the water level during the drainage leads to the variation of the local stress in the overlying strata. Based on a multitude of boreholes for groundwater drainage from aquifer above the 1303 mining face of Longyun Coal Mine, theoretical analysis and numerical simulation are used to investigate the local stress variation in the process of borehole drainage. The results show that due to the drop in the water level of the roof aquifer during the drainage, the stress around the borehole gradually evolved. From the center of the borehole to the outside, a stress-relaxed zone, a stress-elevated zone, and a stress-recovered zone are sequentially formed. Along with the expansion of drainage influence, the stress peak in the stress-elevated zone also moves to the outside. When the radius of influence develops to the maximum, the stress peak position no longer moves outward. When the coal mining face advances to the drainage influence range, the abutment pressure in front of the mining face is superimposed with the high local stress around the borehole, which increases the risk of stress concentration. The present study provides a reference for the stress concentration caused by borehole drainage, which can be potentially utilized in the optimal arrangement of drainage boreholes in underground mining.
+</pre></div>
+
+
+
 - **Zhang Q**<sup>\*</sup>, Yan X, Shao J (2021) Fluid flow through anisotropic and deformable double porosity media with ultra-low matrix permeability: A continuum framework. *Journal of Petroleum Science and Engineering* 200:108349
 - **Zhang Q**<sup>\+</sup>, Chen Y<sup>\+</sup>, Yang Z<sup>\+</sup>, Darve E<sup>\*</sup> (2020) Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem. Proceedings of the Machine Learning and the Physical Sciences Workshop, 34<sup>th</sup> Conference on Neural Information Processing Systems (NeurIPS) [[PDF]](../files/2010.15549.pdf){:target="_blank"}
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'MCNN');">Summary</a>]
+<div id="MCNN" style="display:none;">
+<pre  In this paper, we study the problem of large-strain consolidation in poromechanics with deep neural networks (DNN). Given different material properties and different loading conditions, the goal is to predict pore pressure and settlement. We propose a novel method ``multi-constitutive neural network'' (MCNN) such that one model can solve several different constitutive laws. We introduce a one-hot encoding vector as an additional input vector, which is used to label the constitutive law we wish to solve. Then we build a DNN which takes $(\hat{X}, \hat{t})$ as input along with a constitutive law label and outputs the corresponding solution. It is the first time, to our knowledge, that we can evaluate multi-constitutive laws through only one training process while still obtaining good accuracies. We found that MCNN trained to solve multiple PDEs outperforms individual neural network solvers trained with PDE in some cases.
+</pre></div>
+
+
 - **Zhang Q**<sup>\*</sup> (2020) Hydromechanical modeling of solid deformation and fluid flow in the transversely isotropic fissured rocks. *Computers and Geotechnics* 128:103812
 - **Zhang Q**, Choo J, Borja RI<sup>\*</sup> (2019) On the preferential flow patterns induced by transverse isotropy and non-Darcy flow in double porosity media. *Computer Methods in Applied Mechanics and Engineering* 353:570-592
 - **Zhang Q**<sup>\*</sup>, Zhu H (2018) Collaborative 3D geological modeling analysis based on multi-source data standard. *Engineering Geology* 246:233-244 [[PDF]](../files/ENGEO-myfirstsci.pdf){:target="_blank"}
@@ -80,7 +93,7 @@ Closed-form expressions for poroelastic coefficients are derived for anisotropic
 
 ## Other
 
-- Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. [*Advances in Geo-Energy Research*](https://www.yandy-ager.com/index.php/ager/index){:target="_blank"} (ESCI and EI indexed) [[PDF]](../files/AGER_20210402.pdf){:target="_blank"}
+- Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. [*Advances in Geo-Energy Research*](https://www.yandy-ager.com/index.php/ager/index){:target="_blank"} (ESCI and EI indexed, OA Journal, Chinese Academy of Sciences JCR Q4) [[PDF]](../files/AGER_20210402.pdf){:target="_blank"}
 - Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata. *ACS Omega* [[PDF]](../files/ACSO.pdf){:target="_blank"}
 - New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation. *ACS Omega*
 - Numerical Investigation of the Effect of Partially Propped Fracture Closure on Gas Production in Fractured Shale Reservoirs. *Energies*
