@@ -27,7 +27,7 @@ author_profile: true
 
 ## Main work
 
-- **Zhang Q**, Wang ZY, Yin ZY<sup>\*</sup>, Jin YF (2022) A novel stabilized NS-FEM formulation for anisotropic double porosity media. *Computer Methods in Applied Mechanics and Engineering* 401:115666 [[Code]](https://github.com/qizhang94/GEOKEYFEM_HM/releases){:target="_blank"} [[PDF]](../files/CMAME_115666.pdf){:target="_blank"} [[Rebuttal]](../files/CMAME_115666_Rebuttal.pdf){:target="_blank"}
+- **Zhang Q**, Wang ZY, Yin ZY<sup>\*</sup>, Jin YF (2022) A novel stabilized NS-FEM formulation for anisotropic double porosity media. *Computer Methods in Applied Mechanics and Engineering* 401:115666 [[Code]](https://github.com/qizhang94/GEOKEYFEM_HM/releases){:target="_blank"} [[PDF]](../files/CMAME_115666.pdf){:target="_blank"} [[Rebuttal]](../files/CMAME_115666_Rebuttal.pdf){:target="_blank"} [[Supplementary]](../files/Shared_1.pdf){:target="_blank"}
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'ZhangCMAME22');">Summary</a>]
 <div id="ZhangCMAME22" style="display:none;">
 <pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
