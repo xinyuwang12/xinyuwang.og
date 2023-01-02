@@ -95,7 +95,12 @@ In this paper, we study the problem of large-strain consolidation in poromechani
 
 
 - **Zhang Q**<sup>\*</sup> (2020) Hydromechanical modeling of solid deformation and fluid flow in the transversely isotropic fissured rocks. *Computers and Geotechnics* 128:103812
+
+
 - **Zhang Q**, Choo J, Borja RI<sup>\*</sup> (2019) On the preferential flow patterns induced by transverse isotropy and non-Darcy flow in double porosity media. *Computer Methods in Applied Mechanics and Engineering* 353:570-592
+
+
+
 - **Zhang Q**<sup>\*</sup>, Zhu H (2018) Collaborative 3D geological modeling analysis based on multi-source data standard. *Engineering Geology* 246:233-244 [[PDF]](../files/ENGEO-myfirstsci.pdf){:target="_blank"}
 
 
