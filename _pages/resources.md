@@ -22,6 +22,9 @@ Occasionally, I will also upload and share some of my notes of mathematical deri
 - Here is the MATLAB code for anisotropic elasticity (fourth-order elastic moduli tensor, 9\*9 matrix form, Voigt notation 6\*6 matri form, etc.) The theory could be found in this [[PDF]](www.google.com){:target="_blank"}
 
 
+<details>
+<summary>Click to expand</summary>
+
 ```MATLAB
 clear; clearvars -global; clc; close all;
 restoredefaultpath;
@@ -108,3 +111,64 @@ DELAS = DELAS(index, :);  % 6*6 matrix
 disp(DELAS - stiffness_to_mat6by6(Ce));
 ```
 
+```MATLAB
+function B = stiffness_to_mat6by6(A)
+% Transform a symmetric (minor and major) fourth order tensor A (3*3*3*3) to a matrix B (6*6)
+% Only apply to stiffness!
+% Note Voigt order: 11 22 33 12 13 23 is used here
+
+e1 = [1, 0, 0; 0, 0, 0; 0, 0, 0];
+e2 = [0, 0, 0; 0, 1, 0; 0, 0, 0];
+e3 = [0, 0, 0; 0, 0, 0; 0, 0, 1];
+e4 = [0, 0.5, 0; 0.5, 0, 0; 0, 0, 0];
+e5 = [0, 0, 0.5; 0, 0, 0; 0.5, 0, 0];
+e6 = [0, 0, 0; 0, 0, 0.5; 0, 0.5, 0];
+
+D_aug = [reshape(double_dot(A, e1), [9, 1]), reshape(double_dot(A, e2), [9, 1]), ...
+    reshape(double_dot(A, e3), [9, 1]), reshape(double_dot(A, e4), [9, 1]),...
+    reshape(double_dot(A, e5), [9, 1]), reshape(double_dot(A, e6), [9, 1])]; % 9*6 matrix
+
+B = [D_aug(1,:); D_aug(5,:); D_aug(9,:); D_aug(4,:); D_aug(7,:); D_aug(8,:)];
+end
+```
+
+
+```MATLAB
+function C = double_dot(A,B)
+% double contraction between tensors
+m = size(A); m(end-1:end) = [];
+n = size(B); n(1:2) = [];
+
+if length(m) == 2 && length(n) == 2
+    for i = 1:3
+        for j = 1:3
+            for k = 1:3
+                for l = 1:3
+                    C(i, j, k, l) = trace(reshape(A(i, j, :, :), [3, 3]) * B(:, :, k, l)');
+                end
+            end
+        end
+    end
+elseif length(m) == 2 && isempty(n)
+    for i = 1:3
+        for j = 1:3
+            C(i, j) = trace(reshape(A(i, j, :, :), [3, 3]) * B');
+        end
+    end
+elseif length(n) == 2 && isempty(m)
+    for i = 1:3
+        for j = 1:3
+            C(i, j) = trace(A* transpose(reshape(B(:, :, i, j), [3, 3])));
+        end
+    end
+elseif isempty(m) && isempty(n)
+    C = trace(A*B');
+end                  
+
+end
+
+```
+
+
+
+</details>
