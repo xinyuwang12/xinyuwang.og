@@ -102,6 +102,12 @@ In this paper, we study the problem of large-strain consolidation in poromechani
 
 
 - **Zhang Q**<sup>\*</sup>, Zhu H (2018) Collaborative 3D geological modeling analysis based on multi-source data standard. *Engineering Geology* 246:233-244 [[PDF]](../files/ENGEO-myfirstsci.pdf){:target="_blank"}
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, '3DGeo');">Summary</a>]
+<div id="3DGeo" style="display:none;">
+<pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
+A multi-source data standard must be established to reconcile all available geological data such as borehole data, geological mapping data, and rock property data for building a reliable 3D geological model. In addition, a methodology that considers various available data must be developed to provide accurate results that are easy to interpret and convenient for post-modeling analysis. This paper presents a collaborative analysis approach for geological body modeling using multi-source geological data and interpolation theories in different stages and at different places. This approach aims to provide a detailed and comprehensive description and analysis of data, with emphasis on processing flow. The proposed approach contains three major components: establishment of geological databases based on the multi-source data standard to incorporate borehole, geological mapping and rock property data; Combined Kriging interpolation method for data processing; geological algorithms to build, visualize, and post-analyze the 3D geological model. The model integrates multi-source information and is a representative of the geological context. The proposed method is validated by applying it to the Ma-luan mountain tunnel project in Guangdong province, China.
+</pre></div>
+
 
 
 ## Other
