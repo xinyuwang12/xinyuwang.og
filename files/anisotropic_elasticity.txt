@@ -82,6 +82,13 @@ DELAS = reshape(Ce, [9,9])*E; % The use of reshape here is correct! (Specific tr
 DELAS = DELAS(index, :);  % 6*6 matrix
 disp(DELAS - stiffness_to_mat6by6(Ce));
 
+% To summarize, to reduce the number of independent elastic constants, we
+% put constraints on the fourth-order tensor Ce, such that Ce2 = Ce under
+% certain Q matrices.
+
+LHS2 = double_dot(Ce2, Q*e*Q'); % This is ALWAYS equal to RHS! (No symmetry constraint on Ce)
+% In other words, this is just the tensorial transformation law!
+
 
 
 
