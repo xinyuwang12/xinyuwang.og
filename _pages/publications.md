@@ -21,7 +21,7 @@ author_profile: true
 - Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model.
 - Theoretical and numerical investigations on wing crack initiation and propagation in rock materials containing a pre-existing crack under hydro-mechanical interaction.
 - A coupled stable node-based smoothed PFEM for soil-structure interaction with large deformation.
-- **Zhang Q**<sup>\*</sup>, Chen Y, Yang Z (2020) Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network. [[Link]](https://doi.org/10.20944/preprints202006.0258.v1){:target="_blank"}
+- **Zhang Q**<sup>\*</sup>, Chen Y, Yang Z (2020) Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network. [[Link]](https://doi.org/10.20944/preprints202006.0258.v1){:target="_blank"} [[DeepXDE]](https://deepxde.readthedocs.io/en/latest/user/research.html){:target="_blank"}
 
 
 
