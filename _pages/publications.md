@@ -120,3 +120,4 @@ A multi-source data standard must be established to reconcile all available geol
 - Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain Inverted by Digital Images. *Geofluids*
 - Experimental Study on the Basic Properties of a Green New Coal Mine Grouting Reinforcement Material. *ACS Omega*
 - Study on the mechanism and prevention measures of roof separation water inrush (2021). China University of Mining and Technology Press《顶板离层水突涌机理及防治措施研究》中国矿业大学出版社
+- Method for Manufacturing a Similar Simulation of Structural Specimen of Fracture Zone Containing Fault (Netherlands No. [NL2031655A](https://patentimages.storage.googleapis.com/5e/06/16/00ccd822bb86d0/NL2031655A.pdf){:target="_blank"}) 一种模拟含断层破碎带结构体试件的制作方法
