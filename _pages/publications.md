@@ -86,7 +86,7 @@ Pre-drainage of groundwater in the roof aquifer by boreholes is the main method 
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'ZhangJPSE');">Summary</a>]
 <div id="ZhangJPSE" style="display:none;">
 <pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
-WHAT I HAVE DONE: the physical meaning of equivalent micro-fracture network permeability. Hypothesis on the poromechanical coefficients was proposed. A thorough investigation of double porosity media consolidation. WEAKNESS: the hypothesis was not proved, in other words, no updated guidance on the choice of poromechanical coefficients.
+WHAT I HAVE DONE: the physical meaning of equivalent micro-fracture network permeability; hypothesis on the poromechanical coefficients was proposed; a thorough investigation of double porosity media consolidation. WEAKNESS: the hypothesis was not proved, in other words, no updated guidance on the choice of poromechanical coefficients.
 </pre></div>
 
 
@@ -104,7 +104,7 @@ In this paper, we study the problem of large-strain consolidation in poromechani
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'ZhangCAGT');">Summary</a>]
 <div id="ZhangCAGT" style="display:none;">
 <pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
-WHAT I HAVE DONE: a recent plasticity model is reviewed and incorporated into the double porosity framework. Hypothesis on the poromechanical coefficients was proposed. WEAKNESS: the hypothesis was not proved, in other words, no updated guidance on the choice of poromechanical coefficients.
+WHAT I HAVE DONE: a recent plasticity model is reviewed and incorporated into the double porosity framework; hypothesis on the poromechanical coefficients was proposed. WEAKNESS: the hypothesis was not proved, in other words, no updated guidance on the choice of poromechanical coefficients.
 </pre></div>
 
 
@@ -113,7 +113,7 @@ WHAT I HAVE DONE: a recent plasticity model is reviewed and incorporated into th
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'CMAME19');">Summary</a>]
 <div id="CMAME19" style="display:none;">
 <pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
-Pros and cons: Various flow/seepage laws could be incorporated into this work. However, the conservation laws are still based on the Borja and Koliji (2009) work.
+Pros and cons. Various flow/seepage laws could be incorporated into this work. However, the conservation laws are still based on the Borja and Koliji (2009) work.
 </pre></div>
 
 
