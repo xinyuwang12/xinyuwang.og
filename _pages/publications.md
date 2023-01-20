@@ -95,9 +95,22 @@ In this paper, we study the problem of large-strain consolidation in poromechani
 
 
 - **Zhang Q**<sup>\*</sup> (2020) Hydromechanical modeling of solid deformation and fluid flow in the transversely isotropic fissured rocks. *Computers and Geotechnics* 128:103812
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'MCNN');">Summary</a>]
+<div id="MCNN" style="display:none;">
+<pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
+
+</pre></div>
 
 
 - **Zhang Q**, Choo J, Borja RI<sup>\*</sup> (2019) On the preferential flow patterns induced by transverse isotropy and non-Darcy flow in double porosity media. *Computer Methods in Applied Mechanics and Engineering* 353:570-592
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('Summary') } else { $('#' + id).show('fast'); $(target).text('Summary▲') } })(this, 'CMAME19');">Summary</a>]
+<div id="CMAME19" style="display:none;">
+<pre  style="white-space: normal; word-break: keep-all; background-color: #EBECE4">
+The first established methodology with my Ph.D. advisor Prof. Borja is the consideration of various flow patterns in a double porosity medium, motivated by shale properties. Specifically, in sedimentary rocks, fluid could flow through the micro-fracture network at the larger scale as well as through the nanometer-size pores of the rock matrix at the smaller scale. We idealize the micro-fracture network as a transversely isotropic medium with respect to fluid flow, i.e., anisotropic permeability. In addition, the nanopores of sedimentary rocks such as shale are so small that Darcy's law may not hold at this scale. To better understand the impact of non-Darcy flow on the overall flow pattern, we present a hydromechanical model for materials with two porosity scales that accommodates both transverse isotropy at the larger scale and non-Darcy flow at the smaller scale. The two scales interact within the same continuum. The overarching goal is to better understand the impacts of a full tensor permeability and non-Darcy flow on the seepage pattern in this material through the mixed FEM, implemented in an in-house simulator called *Geocentric*. Even though this study is motivated by shale properties, the discussion revolves around a generic material with two porosity scales (such as the coal reservoir) whose fluid flow characteristics are similar to those of shale.
+
+
+Pros and cons: Various flow/seepage laws could be incorporated into this work. However, the conservation laws are still based on the Borja and Koliji (2009) work.
+</pre></div>
 
 
 
