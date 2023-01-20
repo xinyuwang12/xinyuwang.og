@@ -7,14 +7,14 @@ author_profile: true
 
 - Journal Special Issue (Co-)Editor:
 
-  - [Journal of Zhejiang University-SCIENCE A](https://jzus.zju.edu.cn/current_a.php): [Multiscale Multiphysics Modeling in Geotechnics (Closed and will be online soon)](https://www.springer.com/journal/11582/updates/20077476) (with Zhen-Yu YIN and Farid LAOUAFA)
-  - [Energies](https://www.mdpi.com/journal/energies): [Exploitation of Geological Resources in Unconventional Reservoirs](https://www.mdpi.com/journal/energies/special_issues/E_GR_UR) (with Xia YAN and Lijun LIU)
-  - [Frontiers in Earth Science](https://www.frontiersin.org/journals/earth-science): Exploitation of Geological Resources: Multiscale and Multiphysics Modeling (with Xia YAN, Guangpu ZHU, and Shihao WANG)
+  - [Journal of Zhejiang University-SCIENCE A](https://www.springer.com/journal/11582){:target="_blank"}: [Multiscale Multiphysics Modeling in Geotechnics (Closed and will be online soon)](https://www.springer.com/journal/11582/updates/20077476){:target="_blank"} (with Zhen-Yu YIN and Farid LAOUAFA)
+  - [Energies](https://www.mdpi.com/journal/energies){:target="_blank"}: [Exploitation of Geological Resources in Unconventional Reservoirs](https://www.mdpi.com/journal/energies/special_issues/E_GR_UR){:target="_blank"} (with Xia YAN and Lijun LIU)
+  - [Frontiers in Earth Science](https://www.frontiersin.org/journals/earth-science){:target="_blank"}: Exploitation of Geological Resources: Multiscale and Multiphysics Modeling (with Xia YAN, Guangpu ZHU, and Shihao WANG)
 
 
 - Minisymposium Organizer:
 
-  - [ICCES2023 - Computational Geomechanics and Multiphysics Coupling in Porous Media](https://www.iccesconf.org/symposia/)
+  - [ICCES2023 - Computational Geomechanics and Multiphysics Coupling in Porous Media](https://www.iccesconf.org/symposia/){:target="_blank"}
 
 - Journal Reviewer:
 
