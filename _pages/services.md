@@ -30,6 +30,7 @@ author_profile: true
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603){:target="_blank"}
   - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations){:target="_blank"}
   - [Petroleum Science and Technology](https://www.tandfonline.com/journals/lpet20){:target="_blank"}
+  - [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476){:target="_blank"}
   - Other OA journals
 
 - Journal Co-Reviewer:
