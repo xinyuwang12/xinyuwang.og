@@ -129,6 +129,7 @@ A multi-source data standard must be established to reconcile all available geol
 
 ## Other
 
+- Yin, Z., Zhang, Q. & Laouafa, F. [Multiscale multiphysics modeling in geotechnical engineering](https://doi.org/10.1631/jzus.A22MMMiG){:target="_blank"}. J. Zhejiang Univ. Sci. A 24, 1–5 (2023).
 - Strip load on transversely isotropic elastic double porosity media with strong permeability contrast. [*Advances in Geo-Energy Research*](https://www.yandy-ager.com/index.php/ager/index){:target="_blank"} (ESCI and EI indexed, OA Journal $490, Chinese Academy of Sciences JCR Q4, CiteScore 2021: 9.4) [[PDF]](../files/AGER_20210402.pdf){:target="_blank"}
 - Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata. *ACS Omega* [[PDF]](../files/ACSO.pdf){:target="_blank"}
 - New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation. *ACS Omega*

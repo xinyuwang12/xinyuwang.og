@@ -32,6 +32,8 @@ FA = First Author; CA = Corresponding Author
 
 --->
 
+- Special Feature on **Multiscale Multiphysics Modeling in Geotechnical Engineering** has been published in the first issue of 2023 of Journal of Zhejiang University-SCIENCE A. The full text could be downloaded [here](../files/jzus.A22MMMiG.pdf){:target="_blank"}. Happy Chinese (Lunar) New Year!
+
 - The [Resources](https://qizhang94.github.io/resources/) section is updated with my own contributions (January 2, 2023)! Happy New Year!
 
 - I have given an online talk for the invited lecture from the China University of Petroleum (East China) SPE Student Chapter (November 18, 2022)
