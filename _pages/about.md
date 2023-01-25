@@ -32,7 +32,9 @@ FA = First Author; CA = Corresponding Author
 
 --->
 
-- Special Feature on **Multiscale Multiphysics Modeling in Geotechnical Engineering** has been published in the first issue of 2023 of Journal of Zhejiang University-SCIENCE A. The full text could be downloaded [here](../files/jzus.A22MMMiG.pdf){:target="_blank"}. Happy Chinese (Lunar) New Year!
+- Special Feature on **Multiscale Multiphysics Modeling in Geotechnical Engineering** has been published in the first issue of 2023 of Journal of Zhejiang University-SCIENCE A (January 25, 2023). The full text could be downloaded [here](../files/jzus.A22MMMiG.pdf){:target="_blank"}. Happy Chinese (Lunar) New Year!
+
+- I have been awarded the Start-up Fund for RAPs under the Strategic Hiring Scheme (January 16, 2023). The proposal title is **Development of a novel geomechanical model for MHBS that incorporates effects of viscoplasticity, temperature, anisotropy, and non-Darcy flow**.
 
 - The [Resources](https://qizhang94.github.io/resources/) section is updated with my own contributions (January 2, 2023)! Happy New Year!
 
