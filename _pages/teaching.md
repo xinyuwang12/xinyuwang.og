@@ -12,7 +12,7 @@ author_profile: true
 
 ## The Hong Kong Polytechnic University
 ### CSE583 - Analytical and Numerical Methods in Geotechnical Engineering
-* Stress analysis; strain analysis; elasticity; plasticity; some typical soil models;
+* Stress analysis; strain analysis; elasticity; plasticity; some typical soil models
 
-* Fundamental concept of plasticity theory; limit equilibrium method; limit analysis methods; upper and lower bound principles – applications to bearing capacity, lateral earth pressure problems, and slope stability. 
+* Fundamental concept of plasticity theory; limit equilibrium method; limit analysis methods; upper and lower bound principles – applications to bearing capacity, lateral earth pressure problems, and slope stability
 
