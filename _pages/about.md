@@ -38,6 +38,8 @@ FA = First Author; CA = Corresponding Author
 
 - The [Resources](https://qizhang94.github.io/resources/) section is updated with my own contributions (January 2, 2023)! Happy New Year!
 
+- My CMAME paper has just received attentions from Prof. Abousleiman (Dec 27, 2022)! Thank you for the pioneers in poroelasticity and double porosity, without whom this work is not possible.
+
 - I have given an online talk for the invited lecture from the China University of Petroleum (East China) SPE Student Chapter (November 18, 2022)
 
 - I have been awarded the RGC Postdoctoral Fellowship in the 2022/23 Exercise (April 26, 2022)
