@@ -45,9 +45,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  color: $su-color;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    color: $su-color;
   }
 }
