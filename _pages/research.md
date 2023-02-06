@@ -18,14 +18,10 @@ author_profile: true
 
 - Non-isothermal indentation for pure solid
 
-<img src="../images/TM_PEEQ.gif" width="80%" height="80%">
-
-<img src="../images/TM_theta.gif" width="80%" height="80%">
+<img src="../images/TM_PEEQ.gif" width="40%" height="80%" hspace = "10%"> <img src="../images/TM_theta.gif" width="40%" height="80%">
 
 ## Gas production from fractured shale reservoirs
 
 ## Roof water inrush in mining engineering
-<img src="../images/Similar_mat.jpg" width="40%" height="80%">
-<img src="../images/Inrush_1.png" width="40%" height="80%">
-<img src="../images/Inrush_2.png" width="40%" height="80%">
+<img src="../images/Similar_mat.jpg" width="30%" height="80%" hspace="3%"> <img src="../images/Inrush_1.png" width="30%" height="80%" hspace="3%"> <img src="../images/Inrush_2.png" width="30%" height="80%">
 
