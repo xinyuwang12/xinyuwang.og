@@ -11,7 +11,7 @@ author_profile: true
 <img src="../images/DP_media.png" width="80%" height="80%"/>
 
 ## Gas production from fractured shale reservoirs
-<img src="../images/gas.gif" width="80%" height="80%"/>
+<img src="../images/gas2.gif" width="80%" height="80%"/>
 
 ## Roof water inrush in mining engineering
 - An in-house similar simulation experiment was conducted to reveal the whole process of roof water inrush
