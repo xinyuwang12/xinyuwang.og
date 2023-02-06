@@ -18,7 +18,7 @@ author_profile: true
 
 - Non-isothermal indentation for pure solid
 
-<img src="../images/TM_PEEQ.gif" width="40%" height="80%" style="float:left;padding-right:10px;"/> <img src="../images/TM_theta.gif" width="40%" height="80%"/>
+<img src="../images/TM_PEEQ.gif" width="40%" height="80%" style="float:left;padding-right:20px;"/> <img src="../images/TM_theta.gif" width="40%" height="80%"/>
 
 ## Gas production from fractured shale reservoirs
 
@@ -28,7 +28,7 @@ author_profile: true
 - Apply data science to the prediction of water abundance of loose aquifer and to the assessment of reclamation of subsided land caused by coal mining
 
 
-<img src="../images/Similar_mat.jpg" width="50%" height="80%" style="float:center"/> 
-<img src="../images/Inrush_1.png" width="50%" height="80%" style="float:center"/> 
-<img src="../images/Inrush_2.png" width="50%" height="80%" style="float:center"/>
+<img src="../images/Similar_mat.jpg" width="50%" height="80%" vspace="5%"/> 
+<img src="../images/Inrush_1.png" width="50%" height="80%" vspace="5%"/> 
+<img src="../images/Inrush_2.png" width="50%" height="80%" vspace="5%"/>
 
