@@ -23,6 +23,11 @@ author_profile: true
 ## Gas production from fractured shale reservoirs
 
 ## Roof water inrush in mining engineering
+- An in-house similar simulation experiment was conducted to reveal the whole process of roof water inrush
+- An analytical model for wing crack initiation was derived, in order to theoretically interpret the evolution of water-conducting fractured zone
+- Apply data science to the prediction of water abundance of loose aquifer and to the assessment of reclamation of subsided land caused by coal mining
+
+
 <img src="../images/Similar_mat.jpg" width="50%" height="80%" style="float:center"/> 
 <img src="../images/Inrush_1.png" width="50%" height="80%" style="float:center"/> 
 <img src="../images/Inrush_2.png" width="50%" height="80%" style="float:center"/>
