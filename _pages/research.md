@@ -14,9 +14,9 @@ author_profile: true
 <img src="../images/gas2.gif" width="80%" height="80%"/>
 
 ## Roof water inrush in mining engineering
-- An in-house similar simulation experiment was conducted to reveal the whole process of roof water inrush
-- An analytical model for wing crack initiation was derived, in order to theoretically interpret the evolution of water-conducting fractured zone
-- Apply data science to the prediction of water abundance of loose aquifer and to the assessment of reclamation of subsided land caused by coal mining
+- An in-house similar simulation experiment was conducted to reveal the whole process of roof water inrush.
+- An analytical model for wing crack initiation was derived, in order to theoretically interpret the evolution of water-conducting fractured zone.
+- Apply data science to the prediction of water abundance of loose aquifer and to the assessment of reclamation of subsided land caused by coal mining.
 
 
 <img src="../images/Similar_mat.jpg" width="50%" height="80%" vspace="2%"/> 
