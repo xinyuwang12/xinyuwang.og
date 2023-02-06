@@ -11,7 +11,7 @@ author_profile: true
 <img src="../images/DP_media.png" width="80%" height="80%"/>
 
 ## Novel numerical scheme for multiphysics problems with large deformation
-### [A basic in-house numerical simulator for hydromechanical coupling](https://github.com/qizhang94/GEOKEYFEM_HM)
+### [A basic in-house numerical simulator for hydromechanical coupling](https://github.com/qizhang94/GEOKEYFEM_HM){:target="_blank"}
 - Deep footing indentation on a saturated porous media (Made by Ze-Yu WANG)
 
 <img src="../images/HM_mesh.gif" width="30%"/> <img src="../images/HM_PEEQ.gif" width="30%"/> <img src="../images/HM_PP.gif" width="30%"/>
