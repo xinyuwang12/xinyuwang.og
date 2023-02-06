@@ -18,7 +18,8 @@ author_profile: true
 
 - Non-isothermal indentation for pure solid
 
-<img src="../images/TM_PEEQ.gif" width="40%" height="80%" style="float:left;padding-right:20px;"/> <img src="../images/TM_theta.gif" width="40%" height="80%" style="float:left;padding-right:20px;"/>
+<img src="../images/TM_PEEQ.gif" width="40%" height="80%" style="float:left;padding-right:20px;"/> <img src="../images/TM_theta.gif" width="40%" height="80%" style="float:left;padding-right:20px;">
+
 
 ## Gas production from fractured shale reservoirs
 <img src="../images/gas.gif" width="80%" height="80%"/>
