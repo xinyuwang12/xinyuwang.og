@@ -42,7 +42,7 @@ FA = First Author; CA = Corresponding Author
 
 - I have given an online talk for the invited lecture from the China University of Petroleum (East China) SPE Student Chapter (November 18, 2022)
 
-- I have been awarded the RGC Postdoctoral Fellowship (RGC Ref. No. PDFS2223-5S04) in the 2022/23 Exercise (April 26, 2022)
+- I have been awarded the **RGC Postdoctoral Fellowship** (RGC Ref. No. PDFS2223-5S04) in the 2022/23 Exercise (April 26, 2022)
 
 <!---
 <img src="../images/MMMiG.png" width="350"/> <img src="../images/Energies_SI.jpg" width="350"/>
