@@ -14,6 +14,7 @@ Gvh = 15;
 % nuhh = 0.2;
 % nuvh = 0.2;
 % Gvh = Eh/2/(1+nuhh);
+% IMPORTANT RELATION!!!: nuvh/Ev = nuhv/Eh
 
 S11 = [1/Eh, -nuhh/Eh, -nuvh/Ev; ...
     -nuhh/Eh, 1/Eh, -nuvh/Ev; ...
