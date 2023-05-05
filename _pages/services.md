@@ -29,11 +29,11 @@ author_profile: true
   - [KSCE Journal of Civil Engineering](https://www.springer.com/journal/12205){:target="_blank"}
   - [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603){:target="_blank"}
   - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations){:target="_blank"}
-  - [Petroleum Science and Technology](https://www.tandfonline.com/journals/lpet20){:target="_blank"}
+  - [Geomatics, Natural Hazards and Risk](https://www.tandfonline.com/journals/tgnh20){:target="_blank"}
   - [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476){:target="_blank"}
   - Other OA journals
 
-- Journal Co-Reviewer:
+- Journal Assistant/Second Reviewer:
 
   - [Computers and Geotechnics](https://www.sciencedirect.com/journal/computers-and-geotechnics){:target="_blank"}
   - [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207){:target="_blank"}
