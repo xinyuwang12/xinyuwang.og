@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Numerical simulation + Mechanical Experiment + AI
+
 ## Continuum modeling of double porosity media
 - Self-consistent extension of linear poroelasticity to overlapping scales of porosity within fluid-saturated anisotropic materials is developed.
 

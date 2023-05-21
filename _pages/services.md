@@ -31,6 +31,7 @@ author_profile: true
   - [Soils and Foundations](https://www.sciencedirect.com/journal/soils-and-foundations){:target="_blank"}
   - [Geomatics, Natural Hazards and Risk](https://www.tandfonline.com/journals/tgnh20){:target="_blank"}
   - [Mathematical Methods in the Applied Sciences](https://onlinelibrary.wiley.com/journal/10991476){:target="_blank"}
+  - [Journal of Zhejiang University-SCIENCE A](https://www.springer.com/journal/11582){:target="_blank"}
   - Other OA journals
 
 - Journal Assistant/Second Reviewer:
