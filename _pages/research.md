@@ -32,6 +32,6 @@ Numerical simulation + Mechanical Experiment + AI
 
 <img src="../images/HM_mesh.gif" width="30%"/> <img src="../images/HM_PEEQ.gif" width="30%"/> <img src="../images/HM_PP.gif" width="30%"/>
 
-- Non-isothermal indentation for pure solid
+<!-- - Non-isothermal indentation for pure solid
 
-<img src="../images/TM_PEEQ.gif" width="40%" height="80%" style="float:left;padding-right:20px;"/> <img src="../images/TM_theta.gif" width="40%" height="80%" style="float:left;padding-right:20px;">
+<img src="../images/TM_PEEQ.gif" width="40%" height="80%" style="float:left;padding-right:20px;"/> <img src="../images/TM_theta.gif" width="40%" height="80%" style="float:left;padding-right:20px;"> -->
