@@ -11,8 +11,16 @@ author_profile: true
 
 
 ## The Hong Kong Polytechnic University
-### CSE583 - Analytical and Numerical Methods in Geotechnical Engineering
+### CSE583 - Analytical and Numerical Methods in Geotechnical Engineering (Jan 2023)
 * Stress analysis; strain analysis; elasticity; plasticity; some typical soil models
 
 * Fundamental concept of plasticity theory; limit equilibrium method; limit analysis methods; upper and lower bound principles – applications to bearing capacity, lateral earth pressure problems, and slope stability
+
+### CE620 - Research Methods (Sep 2023)
+#### Statistical analysis and modelling
+Linear regression. Multiple linear regression. Geographical weighted regression. Robust regression. Outliers detection. Association rules mining. Clustering. Time series analysis. Big data analysis.
+
+#### Result interpretation: Statistical significance tests
+Steps in Testing for Statistical Significance. Selection of a probability of error level (alpha level). Various tests (Chi square test, T-Test, U-test, Z-test). Interpretation of test results.
+
 
