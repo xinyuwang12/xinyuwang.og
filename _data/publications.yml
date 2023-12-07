@@ -7,7 +7,7 @@ main:
     code: https://github.com/qizhang94/GEOKEYFEM_HM
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/Stanford.jpg
-    notes: (Dissertation Reading Committee) Prof. Ronaldo I. Borja (Primary Advisor), Prof. Louis J. Durlofsky (NAE member), Prof. Christian Linder.
+    notes: Dissertation Reading Committee - Prof. Ronaldo I. Borja (Primary Advisor), Prof. Louis J. Durlofsky (NAE member), Prof. Christian Linder.
 
   - title: Anisotropic continuum framework of coupled gas flow - adsorption - deformation in sedimentary rocks
     authors: <strong>Qi Zhang</strong>, Zhen-Yu Yin*, Xia Yan (*Corresponding author)
@@ -191,7 +191,7 @@ main:
     pdf: https://doi.org/10.1021/acsomega.0c01626
     code: https://github.com/qizhang94/GEOKEYFEM_HM
     bibtex: ./assets/files/publications.txt
-    image: ./assets/img/Others.png
+    image: ./assets/img/Others.jpg
     notes: WoS JCR Q2
     
   - title:  Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain Inverted by Digital Images,
