@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Currently, I am a research assistant professor in the [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/) (from 11/2022). I work with Prof. [Zhen-Yu Yin](https://www.polyu.edu.hk/cee/people/academic-staff/dr-zhen-yu-yin/). Prior to joining PolyU, I received my Ph.D. degree in the [Department of Civil and Environmental Engineering](https://cee.stanford.edu/) at [Stanford University](https://www.stanford.edu/) in June 2021, advised by Prof. [Ronaldo I. Borja](https://web.stanford.edu/~borja/). My Ph.D. thesis is **MATHEMATICAL MODELING OF UNCONVENTIONAL GEOMATERIALS**. I received my B.Eng. degree from [Tongji University](https://www.tongji.edu.cn/) in July 2016 with an undergraduate minor degree in Applied Mathematics.
 
 ## Research Interests
 
