@@ -29,3 +29,34 @@ main:
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/DP_media.png
     notes: WoS JCR Q1 Top
+    
+  - title: A novel collaborative study of abnormal roof water inrush in coal seam mining based on strata separation and wing crack initiation
+    authors: Zaiyong Wang, <strong>Qi Zhang</strong>*, Wenquan Zhang (*Corresponding author)
+    conference_short: EFA
+    conference: Engineering Failure Analysis <strong>(EFA)</strong>, 2022.
+    pdf: https://doi.org/10.1016/j.engfailanal.2022.106762
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Inrush_EFA.png
+    notes: WoS JCR Q1
+    
+  - title: Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach
+    authors: <strong>Qi Zhang</strong>, Zaiyong Wang
+    conference_short: ESIN
+    conference: Earth Science Informatics <strong>(ESIN)</strong>, 2021.
+    pdf: https://doi.org/10.1007/s12145-021-00640-3
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/ESIN_paper.png
+    notes: WoS JCR Q2
+
+    
+  - title: Effects of the borehole drainage for roof aquifer on local stress in underground mining
+    authors: Jianli Shao, <strong>Qi Zhang</strong>*, Wenquan Zhang, et al. (*Corresponding author)
+    conference_short: GAE
+    conference: Geomechanics and Engineering <strong>(GAE)</strong>, 2021.
+    pdf: https://doi.org/10.12989/GAE.2021.24.5.479
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Roof_water.png
+    notes: WoS JCR Q2      
