@@ -19,3 +19,13 @@ main:
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/TOC_Graph.jpg
     notes: WoS JCR Q1
+    
+  - title: A novel stabilized NS-FEM formulation for anisotropic double porosity media
+    authors: <strong>Qi Zhang</strong>, Ze-Yu Wang, Zhen-Yu Yin*, Yin-Fu Jin (*Corresponding author)
+    conference_short: CMAME
+    conference: Computer Methods in Applied Mechanics and Engineering <strong>(CMAME)</strong>, 2022.
+    pdf: https://doi.org/10.1016/j.cma.2022.115666
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/DP_media.png
+    notes: WoS JCR Q1 Top
