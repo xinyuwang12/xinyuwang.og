@@ -1,5 +1,14 @@
 main:
 
+  - title: Mathematical Modeling of Unconventional Geomaterials
+    authors: <strong>Qi Zhang</strong>
+    conference: Stanford University Ph.D. Thesis, 2021.
+    pdf: https://www.proquest.com/openview/abe3da03e71a2f0e685fbf1c40031f59/1?pq-origsite=gscholar&cbl=18750&diss=y
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Stanford.jpg
+    notes: Dissertation Reading Committee: Prof. Ronaldo I. Borja (Primary Advisor), Prof. Louis J. Durlofsky (NAE member), Prof. Christian Linder.
+
   - title: Anisotropic continuum framework of coupled gas flow - adsorption - deformation in sedimentary rocks
     authors: <strong>Qi Zhang</strong>, Zhen-Yu Yin*, Xia Yan (*Corresponding author)
     conference_short: IJNAG
@@ -20,6 +29,26 @@ main:
     image: ./assets/img/TOC_Graph.jpg
     notes: WoS JCR Q1
     
+  - title: Multiscale multiphysics modeling in geotechnical engineering
+    authors: Zhen-Yu Yin, <strong>Qi Zhang</strong>, Farid LAOUAFA
+    conference_short: JZUS-A
+    conference: Journal of Zhejiang University-SCIENCE A <strong>(JZUS-A)</strong>, 2023.
+    pdf: https://doi.org/10.1631/jzus.A22MMMiG
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Others.jpg
+    notes: Editorial
+    
+  - title: A novel collaborative study of abnormal roof water inrush in coal seam mining based on strata separation and wing crack initiation
+    authors: Zaiyong Wang, <strong>Qi Zhang</strong>*, Wenquan Zhang (*Corresponding author)
+    conference_short: EFA
+    conference: Engineering Failure Analysis <strong>(EFA)</strong>, 2022.
+    pdf: https://doi.org/10.1016/j.engfailanal.2022.106762
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Inrush_EFA.png
+    notes: WoS JCR Q1    
+    
   - title: A novel stabilized NS-FEM formulation for anisotropic double porosity media
     authors: <strong>Qi Zhang</strong>, Ze-Yu Wang, Zhen-Yu Yin*, Yin-Fu Jin (*Corresponding author)
     conference_short: CMAME
@@ -30,15 +59,34 @@ main:
     image: ./assets/img/DP_media.png
     notes: WoS JCR Q1 Top
     
-  - title: A novel collaborative study of abnormal roof water inrush in coal seam mining based on strata separation and wing crack initiation
-    authors: Zaiyong Wang, <strong>Qi Zhang</strong>*, Wenquan Zhang (*Corresponding author)
-    conference_short: EFA
-    conference: Engineering Failure Analysis <strong>(EFA)</strong>, 2022.
-    pdf: https://doi.org/10.1016/j.engfailanal.2022.106762
+  - title: A mathematical framework for multiphase poromechanics in multiple porosity media
+    authors: <strong>Qi Zhang</strong>, Xia Yan, Zihao Li
+    conference_short: CGEOT
+    conference: Computers and Geotechnics <strong>(CGEOT)</strong>, 2022.
+    pdf: https://doi.org/10.1016/j.compgeo.2022.104728
     code: https://github.com/qizhang94/GEOKEYFEM_HM
     bibtex: ./assets/files/publications.txt
-    image: ./assets/img/Inrush_EFA.png
+    image: ./assets/img/Multiple_porosity.png
     notes: WoS JCR Q1
+    
+  - title: Mathematical Evaluation on the Control of Mining-Induced Ground Subsidence in Thick Loose Strata
+    authors: Zaiyong Wang, <strong>Qi Zhang</strong>, Jianli Shao, et al.
+    conference: ACS Omega, 2021.
+    pdf: https://doi.org/10.1021/acsomega.1c04970
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Omega_Math.png
+    notes: WoS JCR Q2
+
+  - title: Strip load on transversely isotropic elastic double porosity media with strong permeability contrast
+    authors: <strong>Qi Zhang</strong>
+    conference_short: AGER
+    conference: Advances in Geo-Energy Research <strong>(AGER)</strong>, 2021.
+    pdf: https://doi.org/10.46690/ager.2021.04.02
+    code: https://gitee.com/qzhang94/source-code-arXiv-2311.12877
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/DP_media2.png
+    notes: ESCI, IF = 8.2    
     
   - title: Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach
     authors: <strong>Qi Zhang</strong>, Zaiyong Wang
@@ -50,6 +98,35 @@ main:
     image: ./assets/img/ESIN_paper.png
     notes: WoS JCR Q2
 
+  - title: Fluid flow through anisotropic and deformable double porosity media with ultra-low matrix permeability: A continuum framework
+    authors: <strong>Qi Zhang</strong>, Xia Yan, Jianli Shao
+    conference_short: JPSE
+    conference: Journal of Petroleum Science and Engineering <strong>(JPSE)</strong>, 2021.
+    pdf: https://doi.org/10.1016/j.petrol.2021.108349
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/JPSE.png
+    notes: WoS JCR Q1
+    
+  - title: Poroelastic coefficients for anisotropic single and double porosity media
+    authors: <strong>Qi Zhang</strong>, Ronaldo I. Borja* (*Corresponding author)
+    conference_short: ACTA
+    conference: Acta Geotechnica <strong>(ACTA)</strong>, 2021.
+    pdf: https://doi.org/10.1007/s11440-021-01184-y
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Acta.png
+    notes: WoS JCR Q1
+
+  - title: Hierarchical Modeling of Hydromechanical Coupling in Fractured Shale Gas Reservoirs with Multiple Porosity Scales
+    authors: Xia Yan, Hai Sun, Zhaoqin Huang, Lijun Liu, Ping Wang, <strong>Qi Zhang</strong>, Jun Yao
+    conference_short: E&F
+    conference: Energy & Fuels <strong>(E&F)</strong>, 2021.
+    pdf: https://doi.org/10.1021/acs.energyfuels.0c03757
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Yan_EF.png
+    notes: WoS JCR Q1
     
   - title: Effects of the borehole drainage for roof aquifer on local stress in underground mining
     authors: Jianli Shao, <strong>Qi Zhang</strong>*, Wenquan Zhang, et al. (*Corresponding author)
@@ -59,4 +136,108 @@ main:
     code: https://github.com/qizhang94/GEOKEYFEM_HM
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/Roof_water.png
-    notes: WoS JCR Q2      
+    notes: WoS JCR Q2
+
+  - title: Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem
+    authors: <strong>Qi Zhang</strong>, Yilin Chen, Ziyi Yang, Eric Darve
+    conference_short: NeurIPS
+    conference: 34th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2020.
+    pdf: https://arxiv.org/abs/2010.15549
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/MCNN.png
+    notes: Proceedings of the Machine Learning and the Physical Sciences Workshop
+
+  - title:  New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation
+    authors: Zaiyong Wang, <strong>Qi Zhang</strong>, Jianli Shao, et al.
+    conference: ACS Omega, 2020.
+    pdf: https://doi.org/10.1021/acsomega.0c03535
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Omega_Experiment.png
+    notes: WoS JCR Q2
+
+  - title: Hydromechanical modeling of solid deformation and fluid flow in the transversely isotropic fissured rocks
+    authors: <strong>Qi Zhang</strong>
+    conference_short: CGEOT
+    conference: Computers and Geotechnics <strong>(CGEOT)</strong>, 2020.
+    pdf: https://doi.org/10.1016/j.compgeo.2020.103812
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/COGE.png
+    notes: WoS JCR Q1
+
+  - title: Investigation on the Water Flow Evolution in a Filled Fracture under Seepage-Induced Erosion
+    authors: Jianli Shao, <strong>Qi Zhang</strong>, Xintao Wu, et al.
+    conference: Water, 2020.
+    pdf: https://doi.org/10.3390/w12113188
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Shao_water.png
+    notes: WoS JCR Q2
+
+  - title: Numerical Investigation of the Effect of Partially Propped Fracture Closure on Gas Production in Fractured Shale Reservoirs
+    authors: Xia Yan, Zhaoqin Huang, <strong>Qi Zhang</strong>, et al.
+    conference: Energies, 2020.
+    pdf: https://doi.org/10.3390/en13205339
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Yan_Energies.png
+    notes: WoS JCR Q3
+
+  - title:  Experimental Study on the Basic Properties of a Green New Coal Mine Grouting Reinforcement Material,
+    authors: Xianxiang Zhu, <strong>Qi Zhang</strong>, Wenquan Zhang, et al.
+    conference: ACS Omega, 2020.
+    pdf: https://doi.org/10.1021/acsomega.0c01626
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Others.png
+    notes: WoS JCR Q2
+    
+  - title:  Numerical Simulation on Non-Darcy Flow in a Single Rock Fracture Domain Inverted by Digital Images,
+    authors: Jianli Shao, <strong>Qi Zhang</strong>, Wenbin Sun, et al.
+    conference: Geofluids, 2020.
+    pdf: https://doi.org/10.1155/2020/8814327
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Geofluids_shao.png
+    notes: WoS JCR Q2
+
+  - title: On the preferential flow patterns induced by transverse isotropy and non-Darcy flow in double porosity media
+    authors: <strong>Qi Zhang</strong>, Jinhyun Choo, Ronaldo I. Borja* (*Corresponding author)
+    conference_short: CMAME
+    conference: Computer Methods in Applied Mechanics and Engineering <strong>(CMAME)</strong>, 2019.
+    pdf: https://doi.org/10.1016/j.cma.2019.04.037
+    code: https://gitee.com/qzhang94/source-code-arXiv-2311.12877
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/AGER.png
+    notes: WoS JCR Q1 Top
+    
+  - title: Collaborative 3D geological modeling analysis based on multi-source data standard
+    authors: <strong>Qi Zhang</strong>, Hehua Zhu
+    conference_short: ENGEO
+    conference: Engineering Geology <strong>(ENGEO)</strong>, 2018.
+    pdf: https://doi.org/10.1016/j.enggeo.2018.10.001
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/3D_geological_modeling.jpg
+    notes: WoS JCR Q1 Top    
+
+  - title: Gas flow and solid deformation in unconventional shale
+    authors: <strong>Qi Zhang</strong>, Zhen-Yu Yin, Xia Yan, Xinyu Wang
+    conference_short: arXiv
+    conference: arXiv, 2023.
+    pdf: https://arxiv.org/abs/2311.12877
+    code: https://gitee.com/qzhang94/source-code-arXiv-2311.12877
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Others.jpg
+    notes: Preprint
+    
+  - title: Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network
+    authors: <strong>Qi Zhang</strong>, Yilin Chen, Ziyi Yang
+    conference: Preprints, 2020.
+    pdf: https://doi.org/10.20944/preprints202006.0258.v1
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/PINN.png
+    notes: Stanford CS 229 Course Project
