@@ -1,5 +1,14 @@
 main:
 
+  - title: Mathematical Modeling of Unconventional Geomaterials
+    authors: <strong>Qi Zhang</strong>
+    conference: Stanford University Ph.D. Thesis, 2021.
+    pdf: https://www.proquest.com/openview/abe3da03e71a2f0e685fbf1c40031f59/1?pq-origsite=gscholar&cbl=18750&diss=y
+    code: https://github.com/qizhang94/GEOKEYFEM_HM
+    bibtex: ./assets/files/publications.txt
+    image: ./assets/img/Stanford.jpg
+    notes: (Dissertation Reading Committee) Prof. Ronaldo I. Borja (Primary Advisor), Prof. Louis J. Durlofsky (NAE member), Prof. Christian Linder.
+
   - title: Anisotropic continuum framework of coupled gas flow - adsorption - deformation in sedimentary rocks
     authors: <strong>Qi Zhang</strong>, Zhen-Yu Yin*, Xia Yan (*Corresponding author)
     conference_short: IJNAG
@@ -89,7 +98,7 @@ main:
     image: ./assets/img/ESIN_paper.png
     notes: WoS JCR Q2
 
-  - title: Fluid flow through anisotropic and deformable double porosity media with ultra-low matrix permeability: A continuum framework
+  - title: Fluid flow through anisotropic and deformable double porosity media with ultra-low matrix permeability, A continuum framework
     authors: <strong>Qi Zhang</strong>, Xia Yan, Jianli Shao
     conference_short: JPSE
     conference: Journal of Petroleum Science and Engineering <strong>(JPSE)</strong>, 2021.
