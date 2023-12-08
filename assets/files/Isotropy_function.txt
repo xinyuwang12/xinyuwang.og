@@ -1,0 +1,80 @@
+clear; clearvars -global; clc; close all;
+restoredefaultpath;
+rng('default');
+format short
+
+%% Time derivative of principal values
+[B_n, Bdot] = stress_time(1);
+[x_n, y_n] = eig2(B_n); % Set of eigenvalues and eigenvectors at t = 1
+
+Dt = 1e-5; % Small time increment
+[B, ~] = stress_time(1 + Dt);
+[x, y] = eig2(B); % Set of eigenvalues and eigenvectors at t = 1 + Dt
+
+pv_td = (x - x_n)/Dt;  % Time derivative of principal values, 3*1 vector
+
+%% To obtain time derivative of eigenvectors
+pd_td = (y - y_n)/Dt; % 3*3 matrix, each column is a principal direction time derivative
+
+%% Construct the spin tensor
+omega = pd_td(:, 1)*y(:, 1)' + pd_td(:, 2)*y(:, 2)' + pd_td(:, 3)*y(:, 3)'; % It is indeed skew-symmetric!
+
+%% Q
+Q = y(:,1) * y_n(:,1)' + y(:,2) * y_n(:,2)' + y(:,3) * y_n(:,3)';
+Q_dot = pd_td(:,1) * y_n(:,1)' + pd_td(:,2) * y_n(:,2)' + pd_td(:,3) * y_n(:,3)';
+omega_2 = Q_dot * Q';
+
+% Check \dot{n^(A)} is perpendicular to n^{(A)}
+disp(y(:, 1)'*pd_td(:,1)); disp(y(:, 2)'*pd_td(:,2)); disp(y(:, 3)'*pd_td(:,3));
+
+%% Now calculate the time derivative (should equal to Bdot)
+disp(pv_td(1)*y(:,1)*y(:,1)' + pv_td(2)*y(:,2)*y(:,2)' + pv_td(3)*y(:,3)*y(:,3)' + omega*B_n - B_n*omega);
+disp(Bdot)
+
+%% Important lesson
+% The components of the omega tensor here are expressed under the Cartesian system
+% The value will be different from \omega_BA, \omega_CA in Borja's book
+% \omega_BA, \omega_CA are components in the principal space
+
+
+%% User-defined functions
+function [A, Adot] = stress_time(t) % The output tensor is a function of time
+% When t = 0, it is a digonal matrix, the eigenvectors (principal directions) are just e1, e2, e3
+
+A = zeros(3,3);
+A(1,1) = 1 + t;
+A(2,2) = 2 + t^2;
+A(3,3) = 3 + t^3;
+A(1,2) = sin(t); A(2,1) = sin(t);
+A(1,3) = exp(t) - 1; A(3,1) = exp(t) - 1;
+
+% Calculate analytically
+Adot = zeros(3,3);
+Adot(1,1) = 1;
+Adot(2,2) = 2*t;
+Adot(3,3) = 3*t^2;
+Adot(1,2) = cos(t); Adot(2,1) = cos(t);
+Adot(1,3) = exp(t); Adot(3,1) = exp(t);
+
+end
+
+
+function [x, y] = eig2(A) % Make the eigenvalues sorted, and make eigenvector unique
+
+[V, D] = eig(A); % Diagonal matrix D of eigenvalues
+
+if ~issorted(diag(D))
+    [V,D] = eig(A);
+    [D,I] = sort(diag(D));
+    V = V(:, I);
+end
+
+for j = 1:size(V,2)
+    [~, index] = max(abs(V(:, j)));
+    if V(index, j) < 0
+        V(:, j) = -V(:, j);
+    end
+end
+
+x = diag(D); y = V;
+end
