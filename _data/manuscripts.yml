@@ -1,0 +1,12 @@
+main:
+
+  - title: A novel approach for hydromechanical soil-structure interaction analysis with stable node-based smoothed PFEM
+    authors: Yin-Fu Jin, Ze-Yu Wang, Zhen-Yu Yin, <strong>Qi Zhang</strong>, Yu-Ze Wang
+    conference_short: IJNME
+    conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, 2024.
+    pdf: https://onlinelibrary.wiley.com/journal/10970207
+    image: ./assets/img/WZY_NME.jpg
+    
+  - title: Implicit SNS-PFEM with dual mortar method for thermo-hydro-mechanical large deformation submarine pipeline-soil interaction problems
+    authors: Xian-Han Wu, <strong>Qi Zhang</strong>, Zhen-Yu Yin, et al.
+    image: ./assets/img/Others.jpg   

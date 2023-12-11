@@ -28,6 +28,8 @@ I have been teaching and giving lectures on (1) [Analytical and Numerical Method
 
 {% include_relative _includes/services.md %}
 
+{% include_relative _includes/manuscripts.md %}
+
 {% include_relative _includes/publications.md %}
 
 
