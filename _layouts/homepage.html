@@ -33,9 +33,35 @@
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
+	
+   <script>
+      function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+      }
+   </script>	
 
   </head>
   <body>
+
+    <div class="topnav">
+
+      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
+
+      <div id="myLinks">
+      {% include navigation.md %}
+      </div>
+
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+      
+    </div>  
+  
     <div class="wrapper">
       <header>
         
