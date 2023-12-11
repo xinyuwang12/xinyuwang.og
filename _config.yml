@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
@@ -43,9 +43,6 @@ google_analytics: UA-111540567-4
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
-
-
-clustrmaps_id: Dpxdrc4AFLYPcA-vwWuwzCFnPW278vQEnjX3wtFIibY
 
 # The following files will be removed from the generated website.
 exclude:
