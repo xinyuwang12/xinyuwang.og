@@ -34,6 +34,6 @@ I have been teaching and giving lectures on (1) [Analytical and Numerical Method
 
 
 <br>
-<div pointer-events: none;">
+<div style="pointer-events: none;">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=160c98&w=400&t=tt&d=Dpxdrc4AFLYPcA-vwWuwzCFnPW278vQEnjX3wtFIibY&co=ffffff&ct=000000&cmo=3acc3a&cmn=ff5353'></script>
 </div>
