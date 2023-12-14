@@ -6,7 +6,14 @@ main:
     conference: International Journal for Numerical Methods in Engineering <strong>(IJNME)</strong>, 2024.
     pdf: https://onlinelibrary.wiley.com/journal/10970207
     image: ./assets/img/WZY_NME.jpg
+
+  - title: Evolution of mining-induced water inrush disaster from a hidden fault in coal seam floor based on a coupled stress-seepage-damage model
+    authors: Jianli Shao, <strong>Qi Zhang</strong>, Wenquan Zhang
+    conference_short: GGGG
+    conference: Geomechanics and Geophysics for Geo-Energy and Geo-Resources <strong>(GGGG)</strong>, 2024.
+    pdf: https://link.springer.com/journal/40948
+    image: ./assets/img/Hidden_fault.jpg
     
   - title: Implicit SNS-PFEM with dual mortar method for thermo-hydro-mechanical large deformation submarine pipeline-soil interaction problems
     authors: Xian-Han Wu, <strong>Qi Zhang</strong>, Zhen-Yu Yin, et al.
-    image: ./assets/img/Others.jpg   
+    image: ./assets/img/Others.jpg
