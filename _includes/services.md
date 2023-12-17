@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Convener</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.emi2024ic.com/"><autocolor>Mini-symposium: Computational Geomechanics. EMI 2024 IC, TU Wien, Vienna, Austria.</autocolor></a></li>
+  <li><a href="https://www.emi2024ic.com/programme/mini-symposia/"><autocolor>Mini-symposium: Computational Geomechanics. EMI 2024 IC, TU Wien, Vienna, Austria.</autocolor></a></li>
   <li><a href="http://2023.iccesconf.org/symposia/index.htm"><autocolor>Mini-Symposium S25: Computational Geomechanics and Multiphysics Coupling in Porous Media. ICCES2023, Shenzhen, China.</autocolor></a></li>
 </ul>
 
