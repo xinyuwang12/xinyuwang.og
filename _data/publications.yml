@@ -13,7 +13,7 @@ main:
     authors: <strong>Qi Zhang</strong>, Zhen-Yu Yin*, Xia Yan (*Corresponding author)
     conference_short: IJNAG
     conference: International Journal for Numerical and Analytical Methods in Geomechanics <strong>(IJNAG)</strong>, 2024.
-    pdf: https://onlinelibrary.wiley.com/journal/10969853
+    pdf: https://doi.org/10.1002/nag.3674
     code: https://github.com/qizhang94/GEOKEYFEM_HM
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/kapp.png
