@@ -141,12 +141,12 @@ main:
   - title: Multi-Constitutive Neural Network for Large Deformation Poromechanics Problem
     authors: <strong>Qi Zhang</strong>, Yilin Chen, Ziyi Yang, Eric Darve
     conference_short: NeurIPS
-    conference: 34th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2020.
-    pdf: https://arxiv.org/abs/2010.15549
+    conference: 34th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, Proceedings of the Machine Learning and the Physical Sciences Workshop, 2020.
+    pdf: https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_96_poster.pdf
     code: https://github.com/qizhang94/GEOKEYFEM_HM
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/MCNN.png
-    notes: Proceedings of the Machine Learning and the Physical Sciences Workshop
+    notes: https://arxiv.org/abs/2010.15549
 
   - title:  New Type of Similar Material for Simulating the Processes of Water Inrush from Roof Bed Separation
     authors: Zaiyong Wang, <strong>Qi Zhang</strong>, Jianli Shao, et al.
