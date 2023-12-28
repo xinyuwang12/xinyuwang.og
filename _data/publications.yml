@@ -82,11 +82,11 @@ main:
     authors: <strong>Qi Zhang</strong>
     conference_short: AGER
     conference: Advances in Geo-Energy Research <strong>(AGER)</strong>, 2021.
-    pdf: https://doi.org/10.46690/ager.2021.04.02
+    pdf: https://mp.weixin.qq.com/s/_gOUxBpuIkgFAo84Mtnzyg
     code: https://gitee.com/qzhang94/source-code-arXiv-2311.12877
     bibtex: ./assets/files/publications.txt
     image: ./assets/img/DP_media2.png
-    notes: ESCI, IF = 8.2    
+    notes: ESCI, IF = 8.2 (Web of Science, June 2023)    
     
   - title: Spatial prediction of loose aquifer water abundance mapping based on a hybrid statistical learning approach
     authors: <strong>Qi Zhang</strong>, Zaiyong Wang
